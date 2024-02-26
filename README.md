@@ -1,4 +1,4 @@
-#QUIZ GAME
+# QUIZ GAME
 Develop a quiz game that asks users multiple-choice or fill-in-the-blank questions on a specific topic. The game should keep track of scores, provide feedback on correct/incorrect answers, and offer a variety of questions to make it challenging and engaging.
 Load Quiz Questions. Calculate the Final Score. Display Final Results: Display Welcome Message and Rules.
 Present Quiz Questions: Display each question and answer choice. Prompt the user to
